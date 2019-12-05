@@ -9,7 +9,7 @@ public class Main {
 
 	System.out.println("Some change");
 >>>>>>> eaf020dce601b19b55509cb4e0b6a03ca749dd39
-
+        System.out.println("Change by Martin");
     }
 }
 //well here is my contribution
