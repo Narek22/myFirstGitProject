@@ -13,6 +13,11 @@ public class Main {
         System.out.println("Some change");
 
         System.out.println("Change by Martin");
+
+        for (int i = 1; i <= 10; i++) {
+            System.out.printf("%-2d: %s", i, "some text");
+            System.out.println();
+        }
     }
 }
 //well here is my contribution
